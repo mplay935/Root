@@ -63,6 +63,12 @@
   {
     "name": "TIGO",
     "samples": [
+      {
+        "name": "MLS",
+        "uri": "https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.7005&referenceId=umc.cmr.mls.sp.65z55pilct7nuocacbw610v03",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://alexisweb.alwaysdata.net/tv/apple/widevine/live/tvs.vds.7005/umc.cmr.mls.sp.65z55pilct7nuocacbw610v03"
+      },
     {
         "name": "TIGO PARAGUAY 1",
         "uri": "http://pedorro.duckdns.org/goti1/3z0a2bhbsygOhJ3csHjxcn.mpd",
