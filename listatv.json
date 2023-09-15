@@ -1471,6 +1471,10 @@
         "uri": "http://149.56.44.10/hls/117_.m3u8"
       },
       {
+        "name": "SMALLVILLE SAGA",
+        "uri": "http://149.56.44.10/hls/162_.m3u8"
+      },
+      {
         "name": "CREPUSCULO SAGA",
         "uri": "http://149.56.44.10/hls/112_.m3u8"
       }
@@ -1522,10 +1526,6 @@
         "uri": "http://edge-live12-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/a33tih53xold61x4eed9j/KEY.CANALDLASESTRELLAS.json?rlkey=xwce6j5n8mrsu04v152d7u0oz&dl=0"
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS 2",
-        "uri": "https://pylocallivechannelsdash.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Canal_De_Las_Estrellas_HD)/index.m3u8"
       },
       {
         "name": "PASIONES",
