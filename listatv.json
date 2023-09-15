@@ -63,12 +63,6 @@
   {
     "name": "TIGO",
     "samples": [
-      {
-        "name": "MLS",
-        "uri": "https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.7005&referenceId=umc.cmr.mls.sp.65z55pilct7nuocacbw610v03",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://alexisweb.alwaysdata.net/tv/apple/widevine/live/tvs.vds.7005/umc.cmr.mls.sp.65z55pilct7nuocacbw610v03"
-      },
     {
         "name": "TIGO PARAGUAY 1",
         "uri": "http://pedorro.duckdns.org/goti1/3z0a2bhbsygOhJ3csHjxcn.mpd",
@@ -805,7 +799,7 @@
       },
       {
         "name": "ESPN PREMIUM 2 HD",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_PREMIUM)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_PREMIUM)/index.m3u8"
       },
       {
         "name": "FOX SPORTS 1 HD",
@@ -1288,7 +1282,7 @@
       },
       {
         "name": "TOONNICK HD",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8"
       },
       {
         "name": "NICKELODEON JUNIOR HD",
@@ -1338,8 +1332,28 @@
         "uri": "http://149.56.44.10:80/hls/119_.m3u8"
       },
       {
+        "name": "ZENKI",
+        "uri": "http://54.39.21.129:80/hls/210_.m3u8"
+      },
+      {
         "name": "SUPER CAMPEONES",
         "uri": "http://149.56.44.10/hls/101_.m3u8"
+      },
+      {
+        "name": "THUNDERCAT",
+        "uri": "http://54.39.21.129/hls/216_.m3u8"
+      },
+      {
+        "name": "LA HORMIGA ATOMICA",
+        "uri": "http://54.39.21.129/hls/213_.m3u8"
+      },
+      {
+        "name": "LA MASCARA",
+        "uri": "https://54.39.21.129/hls/214_.m3u8"
+      },
+      {
+        "name": "LA VACA Y EL POLLITO",
+        "uri": "http://54.39.21.129/hls/215_.m3u8"
       },
       {
         "name": "LOS PITUFOS",
@@ -1350,12 +1364,16 @@
         "uri": "http://54.39.21.129/hls/196_.m3u8"
       },
       {
+        "name": "BEM 10",
+        "uri": "http://54.39.21.129/hls/193_.m3u8"
+      },
+      {
         "name": "BILLY Y MANDY",
         "uri": "http://54.39.21.129/hls/205_.m3u8"
       },
       {
-        "name": "BEM 10",
-        "uri": "http://54.39.21.129/hls/193_.m3u8"
+        "name": "LA PEQUEÑA LULU",
+        "uri": "http://54.39.21.129/hls/207_.m3u8"
       },
       {
         "name": "HEY ARNOLD",
@@ -1368,6 +1386,10 @@
       {
         "name": "DEXTER",
         "uri": "http://54.39.21.129:80/hls/209_.m3u8"
+      },
+      {
+        "name": "YOGUI",
+        "uri": "http://54.39.21.129:80/hls/217_.m3u8"
       },
       {
         "name": "SPIDERMAN",
@@ -1392,6 +1414,10 @@
       {
         "name": "EL PERRO CORAJE",
         "uri": "http://149.56.44.10/hls/142_.m3u8"
+      },
+      {
+        "name": "EL GALLO CLAUDIO",
+        "uri": "http://149.56.44.10/hls/208_.m3u8"
       },
       {
         "name": "PINKY Y CEREBRO",
@@ -1499,7 +1525,7 @@
       },
       {
         "name": "CANAL DE LAS ESTRELLAS 2",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Canal_De_Las_Estrellas_HD)/index.m3u8"
+        "uri": "https://pylocallivechannelsdash.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Canal_De_Las_Estrellas_HD)/index.m3u8"
       },
       {
         "name": "PASIONES",
@@ -1556,7 +1582,7 @@
       },
       {
         "name": "QUIERO MUSICA TV",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Quiero_Musica)/index.m3u8"
+        "uri": "https://pylocallivechannelsdash.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Quiero_Musica)/index.m3u8"
       },
       {
         "name": "VH1",
