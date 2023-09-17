@@ -63,28 +63,17 @@
   {
     "name": "TIGO",
     "samples": [
-    {
+    
+      {
         "name": "TIGO PARAGUAY 1",
-        "uri": "http://pedorro.duckdns.org/goti1/3z0a2bhbsygOhJ3csHjxcn.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://pedorro.duckdns.org/goti1/widevine.php"
-      },
-      {
-        "name": "TIGO PARAGUAY 2",
-        "uri": "http://pedorro.duckdns.org/goti2/6ky60xwxZmSsxRndFNMSk7.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://pedorro.duckdns.org/goti2/widevine.php"
-      },
-      {
-        "name": "TIGO PARAGUAY 3",
         "uri": "https://250weu.bozztv.com/ssh101/ssh101/lamaleta/playlist.m3u8"
       },
       {
-        "name": "TIGO PARAGUAY 4",
+        "name": "TIGO PARAGUAY 2",
         "uri": "https://tgn.bozztv.com/ssh101/ssh101/video/playlist.m3u8"
       },
       {
-        "name": "TIGO PARAGUAY 5",
+        "name": "TIGO PARAGUAY 3",
         "uri": "https://250weu.bozztv.com/ssh101/ssh101/mplay123/playlist.m3u8"
       },
       {
