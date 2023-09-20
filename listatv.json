@@ -1640,7 +1640,7 @@
       },
       {
         "name": "MTV LIVE",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8"
       },
       {
         "name": "MTV HITS",
@@ -1693,7 +1693,7 @@
       },
       {
         "name": "CNN INTERNACIONAL",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8"
         },
       {
         "name": "CNN CHILE",
