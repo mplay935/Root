@@ -1699,6 +1699,10 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bec50098d0af518ebbda9db9f0184bee&key=c7e8a7257ec851bf5238dbb0c28c36a1"
       },
       {
+        "name": "VATICANO TV",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCnB5vfb9FMMNTnC6-kAT3fQ"
+      },
+      {
         "name": "CHILEVISION",
         "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1040",
         "drm_scheme": "clearkey",
