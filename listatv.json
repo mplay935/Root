@@ -550,8 +550,8 @@
         "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@recordnews/live"
       },
       {
-        "name": "TV NOVA PLAY HD",
-        "uri": "https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8"
+        "name": "RETRO CARTOON HD",
+        "uri": "https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8"
       },
       {
         "name": "CONEC TV HD",
