@@ -17,6 +17,12 @@
         "uri": "https://tgn.bozztv.com/ssh101/ssh101/video/playlist.m3u8"
       },
       {
+        "name": "TEST",
+        "uri": "https://channel-distritocomedia-cdn.blim.com/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://cdn4.xaxa.live/keys/bli.json"
+      },
+      {
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8"
       },
