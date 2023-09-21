@@ -1658,6 +1658,10 @@
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8"
       },
       {
+        "name": "CONCERT HD",
+        "uri": "http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Concert_Channel_HD)/index.m3u8"
+      },
+      {
         "name": "MTV HITS",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
         "drm_scheme": "clearkey",
