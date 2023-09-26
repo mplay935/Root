@@ -529,9 +529,7 @@
       },
       {
         "name": "GLOBO TV HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=500c3b9dcbaf55b48b19a3cf7a8bcb06&key=2bd22726aec7d4fd52b3521aebaa4105"
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/watch?v=ahE0Beji--Y"
       },
       {
         "name": "SBT HD",
