@@ -529,9 +529,7 @@
       },
       {
         "name": "GLOBO TV HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/37ermryrinil0et4hm7pa/KEY.GLOBO.json?rlkey=5vlhvibqwcb5fa6nidcwy4inv&dl=0"
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/watch?v=ahE0Beji--Y"
       },
       {
         "name": "SBT HD",
