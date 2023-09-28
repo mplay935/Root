@@ -536,6 +536,22 @@
         "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/watch?v=R-hBH6rIYKA"
       },
       {
+        "name": "GLOBO TV",
+        "uri" : "https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=500c3b9dcbaf55b48b19a3cf7a8bcb06&key=2bd22726aec7d4fd52b3521aebaa4105"
+      },
+      {
+        "name": "GLOBO TV 2",
+        "uri": "https://server101.shop/globo-ba/index.m3u8?token=d7d4b3e9ac24a73ed531f241884aa98f09c6850d-c0d7dfe1480bb98a8af81776590b0265-1695710255-1695703055&remote=190.104.133.98"
+      },
+      {
+        "name": "GLOBO BRASILIA",
+        "uri" : "https://dtvott-jbc.akamaized.net/dash_live_0093/manifest.mpd?da=0&country=UY&accountType=OTT",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a596b87acbcc5bdf8fb1a35abed83b86&key=c08c8364c5f86382e7c83c5f52aab530" 
+      },
+      {
         "name": "SBT HD",
         "uri": "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8"
       },
