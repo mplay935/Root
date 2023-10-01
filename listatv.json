@@ -533,7 +533,7 @@
       },
       {
         "name": "GLOBO TV HD",
-        "uri": "https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8"
+        "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8"
       },
       {
         "name": "SBT HD",
