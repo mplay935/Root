@@ -812,6 +812,10 @@
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CLARO_CINEMA_HD)/index.m3u8"
       },
       {
+        "name": "CANAL CLARO HD",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_CLARO_HD)/index.m3u8"
+      },
+      {
         "name": "A3 CINE HD",
         "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_wl/A3_Cine.mpd",
         "drm_scheme": "clearkey",
@@ -986,10 +990,6 @@
       {
         "name": "BEIN SPORTS XTRA Ñ HD",
         "uri": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-      },
-      {
-        "name": "CANAL CLARO HD",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_CLARO_HD)/index.m3u8"
       },
       {
         "name": "CLARO SPORTS 2 HD",
