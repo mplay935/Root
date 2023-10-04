@@ -702,18 +702,6 @@
         "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692"
       },
       {
-        "name": "TNT NOVELAS HD",
-        "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A_wl/TBS.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612"
-      },
-      {
-        "name": "CINE LATINO HD",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=14c6468aad565259a32023577ac79a39&key=f31842f9921a41263e5e66fd4e00cc71"
-      },
-      {
         "name": "A&E HD",
         "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_wl/AEHD.mpd",
         "drm_scheme": "clearkey",
