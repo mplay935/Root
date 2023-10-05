@@ -1,5 +1,12 @@
 [
-  
+  {
+    "name": "MLS SOLO EVENTOS",
+    "samples": [
+     {  
+        "name": "PARTIDOS DEL INTER DE MIAMI",
+        "uri": "https://testphp07.alwaysdata.net/universo/megadeportes.m3u8"
+      }
+      ]
   {
     "name": "TIGO",
     "samples": [
