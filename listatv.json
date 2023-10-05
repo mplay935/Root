@@ -1,13 +1,5 @@
 [
-  {
-    "name": "MLS SOLO EVENTOS",
-    "samples": [
-     {  
-        "name": "PARTIDOS DEL INTER DE MIAMI",
-        "uri": "https://testphp07.alwaysdata.net/universo/megadeportes.m3u8"
-      }
-      ]
-    },
+  
   {
     "name": "TIGO",
     "samples": [
@@ -31,6 +23,17 @@
       {
         "name": "TIGO GUATEMALA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8"
+      }
+    ]
+    },
+  {
+    "name": "PRTIDOS DE MESSI",
+    "samples": [
+    
+      
+      {
+        "name": "MLS EVENTOS",
+        "uri": "https://testphp07.alwaysdata.net/universo/megadeportes.m3u8"
       }
     ]
     },
