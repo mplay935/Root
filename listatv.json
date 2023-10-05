@@ -1523,8 +1523,7 @@
     "samples": [
       {
         "name": "VECINOS",
-        "uri": "https://dcs3-live.mp.lura.live/server/podserve/Akpqp9fxaoNEhKJj/manifest.m3u8?gam_stream_id=[[STREAMID]]&encp=4zhxiQpGF7dmeY2lGQtmvA:HgAKsnQkpzgiCN_JvrKl1VFwuU6eoyEohP4KKg3cwyt_xrRYD-dGhbYNtx_EjAu84yVRx0bUD69PiactbmJAravwObtdI3bigKdluKJ69oX0JLWHU0BcPrpabPA2m3iKIypiDFLIjtO420zfoGetK-7ztTEDGGSoKOTKvVv3k5U-w9WerU4WDO-lSjD8_vTiQD1TzKv3J8mSnq7bhSWF2fVvi9yGdVLBc6JG3o6jViZ7E4IvC48uCkSUQuO4TXhidE0I0nxXuLtboy197zMZfVSc3ME_4t8V2FSUqIbvnqXja2hx3SXLsE61qEHHE6J3YEFsb8x5YUlSbpkLMBlUMER1LVMHpxy6RFScP5xEnkWmqqG2cvceKRlVoYPe_w9cG4SL6JU4nrlLxj7wwotwAL--mCJQvuMfRGwx5kPo1PjDifY7y2ukIg86Z2yGrUscStxLxMgOJizdMKi134mO_ggDcq-VQ0OR-uBvgNci308pLJA5LbdUXXhPNieLl3AfRGfP9gSCwmHAxm9IzEPdc91y_471CxfkiHgLSdd0b7Xo4S3EauvcAKB1wu68-c7eq3ZTxmr1YkxoqNNfNSAKz-S_ZU8mHPqikWurVTZnJ0oQJUATqg7_-DZPThiOvigcANUBmurGDlz_foWQg0Dg8Eq1ED7tx-J9IZOO1E0yG5Wtiw0BZlG5hFXEPqz_grxLC8FlFUd0u5mvEQZDfpoTNN6Bfe8p_agMiYnBDMLdLt2nztNB7SuYIwg5hgVDUrQH7VHlZaW9yySGjwyE1dirZVYRJigG1_QhnyTfz7UGdj0ZLD7tkxYWYOr57x591egpD5TgIVPLpHWlf-VF0BkgmLVnbDfmGfaizMb2McdL8ZuLUEklWaLi0UoZttNfLDKPPMExNB0-fczJwztL7j7y3T_ufH2nMcCwZbB7tkPE8r2mY3fPj7CxQTp_0lfh6h9OlISQpNZ77B_6OqTzod5kKGlKOPHixI9XcBB8cMpiQ18IGdYgn6kg1p4SlJQniPFvCnPOsL4kNVsG2BKPgPHXQw&anvtrid=7ad2a25e2ffe332e042c3d7e88a8e3e4&anvauth=tb=0~te=1696507619~sgn=c09e25e6588ca28a0515ecb2e4d617a6f3686364fdd06469bd1693d0a583aec0&t=1696507529&_vpng=0&guid=a6b38bec-6e43-72d7-df7fc7e36514"
-      },
+        "uri": "https://d1406h321fcaxw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/d88173f9-031c-4447-a4aa-716770d709af/0.m3u8"
       {
         "name": "CNN ESPAÑOL",
         "uri": "https://edge-vod02-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_wl/CNN_en_Espanol.mpd",
