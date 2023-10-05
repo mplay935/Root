@@ -1524,6 +1524,7 @@
       {
         "name": "VECINOS",
         "uri": "https://d1406h321fcaxw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/d88173f9-031c-4447-a4aa-716770d709af/0.m3u8"
+      },
       {
         "name": "CNN ESPAÑOL",
         "uri": "https://edge-vod02-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_wl/CNN_en_Espanol.mpd",
