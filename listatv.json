@@ -27,12 +27,12 @@
     ]
     },
   {
-    "name": "PARTIDOS DE MESSI",
+    "name": "MLS EVENTOS",
     "samples": [
     
       
       {
-        "name": "MLS EVENTOS",
+        "name": "EVENTOS DE INTER DE MIAMI",
         "uri": "https://testphp07.alwaysdata.net/universo/megadeportes.m3u8"
       }
     ]
