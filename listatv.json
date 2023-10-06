@@ -912,15 +912,15 @@
       },
       {
         "name": "FOX SPORTS MX",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eede13105e775cf18e7ad20578ab701c&key=806f181c545dcc9b2e8295866d7fcb58"
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/24.m3u8",
+        "drm_scheme": "",
+        "drm_license_uri": ""
       },
       {
         "name": "FOX SPORTS 2 MX",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08c3e6540dcf56ba99c1286065fc0d14&key=e8c55a55bf97e39d2238056cf368573b"
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/25.m3u8",
+        "drm_scheme": "",
+        "drm_license_uri": ""
       },
       {
         "name": "FOX SPORTS CL",
