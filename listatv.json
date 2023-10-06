@@ -920,15 +920,11 @@
       },
       {
         "name": "FOX SPORTS MX",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/24.m3u8",
-        "drm_scheme": "",
-        "drm_license_uri": ""
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/24.m3u8"
       },
       {
         "name": "FOX SPORTS 2 MX",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/25.m3u8",
-        "drm_scheme": "",
-        "drm_license_uri": ""
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/25.m3u8"
       },
       {
         "name": "FOX SPORTS CL",
