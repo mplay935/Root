@@ -1237,7 +1237,12 @@
     "name": "CULTURALES",
     "samples": [
       
-      
+      {
+        "name": "HGTV",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_2A/Home_and_Garden.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://panelssh.com.ar/Keys/hgtv2.json"
+      },
       {
         "name": "NASA TV HD",
         "uri": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
