@@ -1238,7 +1238,7 @@
     "samples": [
       
       {
-        "name": "HGTV",
+        "name": "HGTV HD",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_2A/Home_and_Garden.mpd",
         "drm_scheme": "ClearKey",
         "drm_license_url": "https://panelssh.com.ar/Keys/hgtv2.json"
