@@ -1488,6 +1488,10 @@
         "drm_license_uri": "https:/dl.dropbox.com/scl/fi/a3zgcah2eszo4sy6zbxca/KEY.TNT.NOVELAS.json?rlkey=dywkos2mo9yg7xq2xxf0auorh&dl=0"
       },
       {
+        "name": "SONY NOVELAS",
+        "uri": "https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8"
+      },
+      {
         "name": "RCN NOVELAS",
         "uri": "https://testphp07.alwaysdata.net/telelatino/play/190.m3u8"
       },
@@ -1495,6 +1499,7 @@
         "name": "TL NOVELAS",
         "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
       }
+      
     ]
     },
   {
