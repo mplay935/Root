@@ -1138,18 +1138,6 @@
         "name": "AFICIONADOS",
         "uri" : "https://testphp07.alwaysdata.net/telelatino/play/30.m3u8"
       },
-      {
-        "name": "AFIZZIONADOS",
-        "uri": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/afizzionados.json"
-      },
-      {
-        "name": "TUDN",
-        "uri": "https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/tudn1.json"
-      },
       {  
         "name": "TUDN USA",
         "uri": "https://testphp07.alwaysdata.net/telelatino/play/200.m3u8"
