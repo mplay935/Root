@@ -927,7 +927,7 @@
       },
       {
         "name": "FOX SPORTS 1 HD",
-        "uri": "https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_wl/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b"
       },
@@ -939,7 +939,7 @@
       },
       {
         "name": "FOX SPORTS 3 HD",
-        "uri": "https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_wl/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b"
       },
