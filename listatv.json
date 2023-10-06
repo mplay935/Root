@@ -1475,6 +1475,10 @@
         "drm_license_uri": "https:/dl.dropbox.com/scl/fi/a3zgcah2eszo4sy6zbxca/KEY.TNT.NOVELAS.json?rlkey=dywkos2mo9yg7xq2xxf0auorh&dl=0"
       },
       {
+        "name": "RCN NOVELAS",
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/190.m3u8"
+      },
+      {
         "name": "TL NOVELAS",
         "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
       }
@@ -1518,6 +1522,12 @@
       {
         "name": "RETRO MUSIC TV",
         "uri": "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8"
+      },
+      {
+        "name": "CM",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://panelssh.com.ar/Keys/cm.json"
       },
       {
         "name": "VH1",
