@@ -32,12 +32,20 @@
     
       
       {
-        "name": "EVENTOS DE INTER DE MIAMI",
+        "name": "EVENTOS 1",
         "uri": "https://testphp07.alwaysdata.net/universo/megadeportes.m3u8"
       },
       {
-        "name": "EVENTOS DE INTER DE MIAMI",
+        "name": "EVENTOS 2",
         "uri": "https://main.mobachira.net/Tou23/45ZI/44"
+      },
+      {  
+        "name": "EVENTOS 3",
+        "uri": "https://cloud2.streaminglivehd.com/8096/8096/chunklist.m3u8"
+      },
+      {  
+        "name": "EVENTOS 4",
+        "uri": "https://markcastillo.agropaqserver1.com/hls/test.m3u8"
       }
     ]
     },
