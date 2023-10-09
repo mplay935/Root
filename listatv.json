@@ -500,9 +500,9 @@
       },
       {
         "name": "TELEFE HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d83e2e0cb9735bea9fc9f0b90cea1e14&key=4125e40800a08bbc66cf27756a5ab283"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323"
       },
       {
         "name": "EL TRECE HD",
