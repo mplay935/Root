@@ -512,45 +512,45 @@
       },
       {
         "name": "AMERICA HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd",
+        "uri": "https://edge-live17-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A_wl/AmericaTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d14fca550adb5b75bb34f0c42aa281dd&key=6f76634b14e243f1bcee1c5fcd8a393c"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45"
       },
       {
         "name": "AMERICA 24 HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=40aa8a3467fc5790a5779a21908b4a75&key=f41dcd5bb111b6ebc9559741d98b7b81"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
       },
       {
         "name": "CANAL 26 HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9b16848f75455e38de2e5147630d649&key=36b5197a88db652d63e50211fa5e05d1"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092"
       },
       {
         "name": "CANAL 9 HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=78a2c02489da5d5aa2c5254dc8357690&key=2d26cfbc205d6be3c810039868f41ae6"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020"
       },
       {
         "name": "TN NOTICIAS HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b363e35a5075589983fec4e2f74f90b9&key=8f7c53bfe02df34d253eb61e7d01ae79"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21"
       },
       {
         "name": "C5N HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63bb90afe7a55cabb01fcac205353b25&key=26c36505b2a3454201dcc8370de0ee07"
+        "drm_license_uri": "https://dl.dropbox.com/s/8qezeqv7vj1qu9u/KEY.C5N.json"
       },
       {
         "name": "LA NACION + HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=40b7d6c428f453498bb8efd1ea9f4b87&key=9410baaf249ff8f0cd6dced01ecf2f5d"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c"
       },
       {
         "name": "ARGENTINISIMA SATELITAL HD",
@@ -564,9 +564,9 @@
       },
       {
         "name": "TV PUBLICA HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5f789ebbb6495578b42267b650574f62&key=0b37b263a0aca7b08f12014b2b7b9248"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662"
       },
       {
         "name": "GEN TV HD",
