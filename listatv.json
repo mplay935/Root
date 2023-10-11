@@ -763,9 +763,9 @@
       },
       {
         "name": "SYFY HD",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc/SyFy.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4"
+        "drm_license_uri":"https://zhost.com.ar/tv/Keys/syfy.json"
       },
       {
         "name": "SONY CHANNEL HD",
@@ -775,9 +775,9 @@
       },
       {
         "name": "SONY MOVIES HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd",
+        "uri": "https://edge-mix01-bua.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=391c137034f053938edbf26799549ddc&key=19d643d8a50b2f829c96a897f7df255d"
+        "drm_license_uri":"https://zhost.com.ar/tv/Keys/sonymovies.json"
       },
       {
         "name": "SONY CINE HD",
