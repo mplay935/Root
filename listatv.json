@@ -763,7 +763,7 @@
       },
       {
         "name": "SYFY HD",
-        "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A_wl/SyFy.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc/SyFy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4"
       },
