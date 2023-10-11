@@ -852,11 +852,11 @@
         "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe"
       },
       {
-        "name": "ON DIRECTV HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri":"https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=64e744367e16508f98ba279b3357ed28&key=9bd679a43a4b57864959db105a42faea"
-      },
+       "name": "EUROPA EUROPA",
+       "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd",
+       "drm_scheme": "ClearKey",
+       "drm_license_url": "https://zhost.com.ar/tv/Keys/europaeuropa.json"
+     },
       {
         "name": "GOLDEN HD",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8"
