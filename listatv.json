@@ -1052,60 +1052,6 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=022d63431e1a5221997dc9ce74c91e4f&key=363d2c58216f24b932662a943230136a"
       },
       {
-        "name": "SPORTV 1",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0068",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f62db627bd93b718154cc8629e92976&key=09e37739a090140734904513ee2f4ce3"
-    },
-      {
-        "name": "SPORTV 2",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0069",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2d6a8c7c95b376db64b06896d730a2f&key=66e956cb531a00d163da476535b90339"
-       },
-      {
-        "name": "SPORTV 3",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08a4277424073a15badafef701a42b8b&key=030601e605c2896a442c73d575a323a8"
-      },
-      {
-        "name": "PREMIERE HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50653a20839a57c8b2d3cde6ddc46cdb&key=892cc6b38a57fc61c20a1b48592a7412"
-      },
-      {
-        "name": "PREMIERE 2 HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9fc08bc02c90500ba511d93a54d261c4&key=184832a5c70ebffcbc42c0243df398f3"
-      },
-      {
-        "name": "PREMIERE 3 HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/pre8.json"
-      },
-      {
-        "name": "PREMIERE 7 HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0112/manifest.mpd?da=0&country=UY&accountType=OTT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/pre3.json"
-      },
-      {
-        "name": "PREMIERE 8 HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/prem8.json"
-      },
-      {
-        "name": "PREMIERE CLUBES HD",
-        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd?da=0&country=UY&accountType=OTT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/premc.json"
-      },
-      {
         "name": "COMBATV HD",
         "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090&avod=1&coppa=0&is_lat=0"
       },
@@ -1115,37 +1061,9 @@
       },
       {
         "name": "GARAGE TV HD",
-        "uri": "https://stream1.sersat.com/hls/garagetv.m3u8"
-      },
-      {
-        "name": "GARAGE TV 2 HD",
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A_wl/El_Garage.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03d1dfb8df034d8b81e57753df00a36d&key=08d83660db4a73bb1d61d60b09df5f4d"
-      },
-      {
-        "name": "DIRECTV SPORTS HD",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731"
-      },
-      {
-        "name": "DIRECTV SPORTS+ HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f19c3a8c638d52c2ab77b9566bcb2996&key=e4fabf39d23cd6557fa71b6e754ef1e7"
-      },
-      {
-        "name": "DIRECTV SPORTS MOTOR HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1279/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86531a9305d65cb78b18b2c14024320e&key=eac224ad0e2493703f491c1a38214c1b"
-      },
-      {
-        "name": "DIRECTV SPORT FIGHT HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=36b2c6b7736a5901bf408916a454abf9&key=f0d2254f85b73717f4c2cd81bda71889"
       },
       {
         "name": "MOVISTAR F1",
@@ -1162,12 +1080,6 @@
       {  
         "name": "TUDN XTRA",
         "uri": "https://testphp07.alwaysdata.net/telelatino/play/60.m3u8"
-      },
-      {
-        "name": "ECDF HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6575e2cb849b581480ab260b70ccfab6&key=0b6b8622989104f69b2db91630ed0eaf"
       },
       {
         "name": "GOLF CHANNEL HD",
