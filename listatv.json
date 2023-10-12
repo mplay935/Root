@@ -1056,6 +1056,20 @@
         "uri": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8"
       },
       {
+        "name": "SPORT TV 2",
+        "uri" : "http://conectplus.com.ar:25461/TVConect20/123456/54467"
+      },
+      {
+        "name": "SPORT TV 3",
+        "uri" : "http://conectplus.com.ar:25461/TVConect20/123456/54469"
+      },
+      {
+        "name": "AMERICA SPORTS HD",
+        "uri": "https://edge-mix01-cte.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_wl/America_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2"
+      },
+      {
         "name": "DEPORTV HD",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd",
         "drm_scheme": "clearkey",
@@ -1082,12 +1096,6 @@
       {
         "name": "WPT POKER HD",
         "uri": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
-      },
-      {
-        "name": "AMERICA SPORTS HD",
-        "uri": "https://edge-mix01-cte.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_wl/America_Sports.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2"
       },
       {
         "name": "VTV HD",
