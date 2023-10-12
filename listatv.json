@@ -1071,9 +1071,9 @@
       },
       {
         "name": "DEPORTV HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00a775d1b96b5951b3c3ab5799f9868e&key=3a56df0047dd709388c606f9ff2fbadd"
+        "drm_license_uri": "https://panelssh.com.ar/Keys/deportv.json"
       },
       {
         "name": "BEIN SPORTS XTRA Ñ HD",
