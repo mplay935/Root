@@ -1018,6 +1018,24 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2901c41dbfc85aa6a26db29cc56bc2c6&key=9e1d0809b5e966987deaed55fd2631ad"
       },
       {
+        "name": "DIRECTV",
+        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731"
+      },
+      {
+        "name": "DIRECTV 1 INGLES",
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/20.m3u8"
+      },
+      {
+        "name": "DIRECTV 2",
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/21.m3u8"
+      },
+      {
+        "name": "DIRECTV +",
+        "uri": "https://testphp07.alwaysdata.net/telelatino/play/22.m3u8"
+      },
+      {
         "name": "TYC SPORTS HD",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
         "drm_scheme": "clearkey",
