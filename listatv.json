@@ -692,6 +692,12 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d"
       },
       {
+        "name": "HBO OPC2",
+        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2d23487b5b881e44ba0fab9759fd85a3&key=029c7f128993034adfe4bc4e95140424"
+      },
+      {
         "name": "HBO PLUS",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_wl/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
@@ -1000,22 +1006,10 @@
         "uri": "https://testphp07.alwaysdata.net/telelatino/play/25.m3u8"
       },
       {
-        "name": "FOX SPORTS CL",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1117",
+        "name": "CANAL FIFA",
+        "uri": "https://dq2zc7j2rj2p7.cloudfront.net/out/v1/7d8d24451fbf442bbe09ed1e7eb27a31/index.mpd'",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5804b7a24ca1303d8511b6d49278610c&key=fc0a63fd4fb80fd67ad25646857082f5"
-      },
-      {
-        "name": "FOX SPORTS 2 CL",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08c3e6540dcf56ba99c1286065fc0d14&key=e8c55a55bf97e39d2238056cf368573b"
-      },
-      {
-        "name": "FOX SPORTS 3 CL",
-        "uri": "https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2901c41dbfc85aa6a26db29cc56bc2c6&key=9e1d0809b5e966987deaed55fd2631ad"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8e2a36274240441fa21513379095175e&key=c24f90571f6f48dd3e4a5fff59993e67"
       },
       {
         "name": "DIRECTV",
