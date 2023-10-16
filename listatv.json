@@ -1707,51 +1707,6 @@
       }
     ]
   },
-      {
-        "name": "PELICULAS PARAGAYAS",
-        "samples": [
-          {
-            "name": "LA MORGUE",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/2a2b6426-3929-4c33-9cc3-7127da6e965c/c83fcad2-bc07-4d93-92a9-d3621a70aba6-master.m3u8"
-          },
-          {
-            "name": "PARAGUAY DROGA Y BANANA",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/a1c360e3-ff5c-4551-9b96-4c48ae51dcf0/decda361-2cec-4b0a-9488-1b5de7ceaab2-master.m3u8"
-          },
-          {
-            "name": "GRITOS DEL MONDAY",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/7ac584ca-1ba3-48df-91dd-f3f81bc208b4/7e68c412-debd-4853-999a-e228da64541d-master.m3u8"
-          },
-          {
-            "name": "MITA'i",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/40ddf02b-c481-4fae-b1fd-523f03948d97/509c9fe6-6ca9-4d0d-9228-44dddb3a6d44-master.m3u8"
-          },
-          {
-            "name": "ACOSTA ÑU",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/b2ab70e3-bf0e-4422-a63e-ad4db39b8c5c/6d8c52bc-f936-4c39-bf7e-96cec1e60efe-master.m3u8"
-          },
-          {
-            "name": "LAS HUELLAS DE LA GUERRA DEL CHACO",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/0e3b58b3-29ce-4a73-a954-9d5d28198396/49c9de48-3d6b-43be-97ee-3978508827c1-master.m3u8"
-          },
-          {
-            "name": "PLATA YGUYGUY",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/5243418f-5f06-448f-a699-36d317f4658a/dd975ddb-e2e8-4830-b836-d8d52f3594a0-master.m3u8"
-          },
-          {
-            "name": "LATAS VACIAS",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/77d02456-243c-408a-a2ac-e34d37d61862/26da55e2-6725-4b87-9727-6d0eadef4ccc-master.m3u8"
-          },
-          {
-            "name": "7 CAJAS",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/71d97642-f49d-4c26-9af0-5e5ab84d2cc2/ddff27ee-5de5-4b25-9197-b6f3ad7b809c-master.m3u8"
-          },
-          {
-            "name": "EL SECUESTRO",
-            "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/a0653fd3-b764-4bcb-b867-3a4865e791ad/ba403dd8-e2f7-457c-9d90-daade001aa78-master.m3u8"
-          }
-        ]
-      },
   {
     "name": "PELICULAS DE ESTRENOS",
     "samples": [
