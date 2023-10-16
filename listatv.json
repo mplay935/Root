@@ -692,12 +692,6 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d"
       },
       {
-        "name": "HBO OPC2",
-        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2d23487b5b881e44ba0fab9759fd85a3&key=029c7f128993034adfe4bc4e95140424"
-      },
-      {
         "name": "HBO PLUS",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_wl/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
@@ -1792,19 +1786,19 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a92fa1abee6bb233112ec9a38653de8&key=cd5dfbddda84d9f59f2fefd39a247600"
       },
       {
-        "name": "Adipurush (2023)SUST",
+        "name": "ADIPURUS (2023)SUST",
         "uri": "https://tvinnov.online/PELICULAS%202023/Adipurush.2023/Adipurush.2023.1080p.WEBRip.mp4"
       },
       {
-        "name": "Alguien que cuide de mí (2023) SUST",
+        "name": "ALGUIEN QUE CUIDE DE MI (2023) SUST",
         "uri": "https://tvinnov.online/PELICULAS%202023/Alguien%20que%20cuide%20de%20mI(2023)/Alguien.que.cuide.de.mi.2023.1080p.WEBRip.mp4"
       },
       {
-        "name": "Alien.Invasion (2023) SUST",
+        "name": "ALIEN.INVASION (2023) SUST",
         "uri": "https://tvinnov.online/PELICULAS%202023/Alien.Invasion.2023.720p.AMZN.WEBRip/Alien.Invasion.2023.720pSUB.mp4"
       },
       {
-        "name": "Asfixiados (2023)",
+        "name": "ASFIXIADOS (2023)",
         "uri": "https://tvinnov.online/PELICULAS%202023/Asfixiados%20(2023)/Asfixiados.2023.720p.WEBRip.mp4"
       },
       {
@@ -1812,87 +1806,83 @@
         "uri": "https://tvinnov.online/PELICULAS%202023/BOB%20ESPONJA%20PRESENTA%20LA%20MAREA%20DESCONOCIDA%20(2023)/Bob%20Esponja%20presenta%20La%20Marea%20Desconocida%20(2023)%201080p%20WEB-DL%20Latino.mp4"
       },
       {
-        "name": "Bloody Daddy (2023)SUST",
+        "name": "BLODDY DADDY (2023)SUST",
         "uri": "https://tvinnov.online/PELICULAS%202023/Bloody%20Daddy%202023/Bloody.Daddy.2023.1080p..mp4"
         
       },
       {
-        "name": "Coyote(2023)SUST",
+        "name": "COYOTE(2023)SUST",
         "uri": "https://tvinnov.online/PELICULAS%202023/Coyote%202023/Coyote.2023.720p.AMZN.WEBRip.800MB%20sub.mp4"
         
       },
       {
-        "name": "200 Pounds Beauty (2023)",
+        "name": "200 POUNDS BEAUTY (2023)",
         "uri": "https://tvinnov.online/PELICULAS%202023/200%20Pounds%20Beauty.2023/200.Pounds.Beauty.2023.720pSUB.mp4"
         
       },
       {
-        "name": "85 South: Ghetto Legends",
+        "name": "85 SOUTH: GHETTO LEGENDS",
         "uri": "https://tvinnov.online/PELICULAS%202023/85%20South%20Ghetto%20Legends%202023/85.South.Ghetto.Legends.2023.720p.WEBRip.mp4"
        
       },
       {
-        "name": "65: Al borde de la extinción",
+        "name": "65: AL BORDE DE LA EXTRACCION",
         "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/65%20AL%20BORDE%20DE%20LA%20EXTINCI%c3%93N/65Al%20borde%20de%20la%20extinci%c3%b3n%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4"
        },
       {
-        "name": "Jung E 2023",
+        "name": "JUNG E 2023",
         "uri": "http://15.235.119.170/Mix/Movies/Jung_E%20(2023)%20%5B720p%5D/Jung_E.2023.mkv"
       },
       {
-        "name": "Super Mario Bros. La película (2023)",
+        "name": "SUPER MARIO BROS. LA PELICULA (2023)",
         "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20(2023)%201080p%2060FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4"
       },
       {
-        "name": "Zom 100: Zombie",
+        "name": "ZOM 100: ZOMBIE",
         "uri": "https://tvinnov.online/PELICULAS%202023/Zom%20100%20Zombie%20ni%20Naru%20Made%20ni%20Shitai%20100%20no%20Koto/Zom%20100%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi.2023.WEB-DL.1080p.Latino.mp4"
       },
       {
-        "name": "Guardianes De La Galaxia Vol.3 (2023)",
+        "name": "GUARDIANES DE LA GALAXIA VOL.3 (2023)",
         "uri": "https://player.odycdn.com/api/v4/streams/free/ivotv2023gdlg/389a5629ce5c094000c2b4078812e42ecfcd2fba/b93e52"
       },
       {
         "name": "BARBIE LA PELICULA 2023",
-        "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21107&authkey=!ADU6Hm80nUIIFgw"
-      },
-      {
-        "name": "BARBIE LA PELICULA 2023 OPC 2",
         "uri": "https://archive.org/download/bvi_20230806/b%40vi.mp4"
       },
       {
-        "name": "Invitacion a la muerte (2023)",
+        "name": "INVITACION A LA MUERTE (2023)",
         "uri": "https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/20a26ca08f69285780e8a10cde4871e1/EP.0.1.v0.1685959515.720.m3u8"
       },
       {
-        "name": "Megalodon 2 (2023)",
+        "name": "MEGALODON 2 (2023)",
         "uri": "https://od.lk/s/MzFfNTQ0MDA2MDZf/Meg.2.The.Trench.2023.mkv"
       },
       {
-        "name": "Los Tres Mosqueteros: D'Artagnan (2023)",
+        "name": "LOS TRES MOSQUETEROS: D'ARTAÑAN (2023)",
         "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21110&authkey=!AF_gUrFhXxS6Vgs"
       },
       {
-        "name": "Indiana Jones 5",
+        "name": "INDIANA JONES 5",
         "uri": "https://onedrive.live.com/download?resid=F5B8BEF483E98AED%212013&authkey=!AK7ODi3UgHStZ5k"
       },
       {
-        "name": "Indiana Jones 6",
+        "name": "INDIANA JONES 6",
         "uri": "https://tvinnov.online/4KL/Indiana%20Jones%20and%20the%20Dial%20of%20Destiny%204k/Indiana%20Jones%20y%20el%20dial%20del%20destino%20(2023)%201080p%20WEB-DL%20sub%204k.mp4"
       },
       {
-        "name": "The Flash 2023",
+        "name": "THE FLASH 2023",
         "uri": "https://tvinnov.online/4KL/The%20Flash%204k/Flash%20(2023)%20Web-Dl%204K%20DV%20HDR%20L.mkv"
       },
       {
-        "name": "Avatar: El sentido del agua",
+        "name": "AVATAR: EL SENTIDO DEL AGUA",
         "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/Avatar%20The%20Way%20of%20Water%2060%20fps/Avatar-%20El%20camino%20del%20agua%20(2022)%201080p%2060FPS%20WEB-DL%20Latino.mp4"
       },
       {
-        "name": "La exorcista",
+        "name": "LA EXORCISTA",
         "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/LA%20EXORCISTA%2060fps/LA%20EXORCISTA.mp4"
       },
       {
-        "name": "Los caballeros del zodiaco",
+        "name": "LOS CABALLEROS DE ZODIACO",
         "uri": "https://github.com/Gumberiito/Deves-Argentina.github.io/releases/download/loscaballeros/LOSCABALLEROS.ts"
       },
       {
@@ -1900,31 +1890,31 @@
         "uri": "https://github.com/ijaq/num/releases/download/lagde2mnd2/lguedelos2mun.ts"
       },
       {
-        "name": "Project X-Traction (2023) Proyecto Extra",
+        "name": "PROJECT X-TRACTION (2023) PrOYECTO EXTRACCION",
         "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21108&authkey=!ACQojv_o13bWRWM"
       },
       {
-        "name": "Oppenheimer 2023",
+        "name": "OPPENHEIMER 2023",
         "uri": "https://onedrive.live.com/download?resid=FA49A618CD405961%21109&authkey=!AJ9nHQ8d9SKdhhs"
       },
       {
-        "name": "Hazme El Favor (2023)",
+        "name": "HAZME EL FAVOR (2023)",
         "uri": "https://onedrive.live.com/download?resid=FA49A618CD405961%21108&authkey=!ANh8f5F5LAt6o_Q"
       },
       {
-        "name": "Abandoned (2022)",
+        "name": "ABANDONADO (2022)",
         "uri": "https://onedrive.live.com/download?resid=E757674A11B9D55F%21107&authkey=!ADnGM626XmSXFcg"
       },
       {
-        "name": "transformers: el despertar de las bestias",
+        "name": "TRAANSFORMER: EL DESPERTAR DE LAS BESTIAS",
         "uri": "https://tvinnov.online/4KL/Transformers%20Rise%20Of%20The%20Beasts%204k/Transformers%20El%20despertar%20de%20las%20bestias.2023.4k.WEB-DL.HDR.Latino.mkv"
       },
       {
-        "name": "Romeo + Julieta",
+        "name": "ROMEO + JULIETA",
         "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/Romeo%20y%20Juliet/ROMEO%20Y%20JULIET.mp4"
       },
       {
-        "name": "Army of the Dead + ejército de los muertos",
+        "name": "ARMY OF THE DEAD + EJERCITO DE LOS MUERTOS",
         "uri": "https://tvinnov.online/4KL/Army.of.the.Dead.2021.4k/Army.of.the.Dead.2021.4k.mkv"
       }
     ]
