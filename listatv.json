@@ -1479,9 +1479,9 @@
     "samples": [
       {
         "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "4zkSA8RRpOctDMt/VYU2FYXvZOKMrWK73rKAH84TW0REkxAWf61iOJ+TVVKIJM15TvsAeSZxdVKhIqWGxpmPmbdixw/5POoj5ac8FPaf2Na2efpoRd+5HzhBCXfcfDGvDXq984mr766av4/gpk88R98VBTe3nelO5NG7nGxVeXU=",
+        "uri": "http://edge-live12-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A_wl/Canal_de_las_estrellas.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "KMaXWcIYzZPuEWVS6T8CE6Ia7a48JxGisguX+gywX6BLfPE+HgtmHKK1zbuHhlQcdixo7JGuWgasjE5LRD/6sHn+F2eyaeurk8OPUxTvMGRL+dGr7YjhXAlD8V44sdi3w22MwOn40HZt1KMifM0SXOPPPFKcRK/fskz1ncz//g0="
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a33tih53xold61x4eed9j/KEY.CANALDLASESTRELLAS.json?rlkey=xwce6j5n8mrsu04v152d7u0oz&dl=0"
       },
       {
         "name": "PASIONES",
