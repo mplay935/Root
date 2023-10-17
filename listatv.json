@@ -1406,24 +1406,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083"
       },
       {
-        "name": "BEM 10",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/354.m3u8"
-      },
-      {
-        "name": "DON GATO Y SU PANDILLA",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/71.m3u8"
-      },
-      {
-        "name": "CORRE CAMIOS",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/357.m3u8"
-      },
-      {
         "name": "LOS PITUFOS",
         "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat=1"
-      },
-      {
-        "name": "LOS PICAPIEDRAS",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/398.m3u8"
       },
       {
         "name": "PEPA PING",
@@ -1448,11 +1432,8 @@
       {
         "name": "TOON GOOGLES HD",
         "uri": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514"
-      },
-      {
-        "name": "EL PRICIPE DEL RAP",
-        "uri": "https://testphp07.alwaysdata.net/telelatino/play/358.m3u8"
       }
+      
     ]
   },
   {
