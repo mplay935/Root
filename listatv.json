@@ -1580,7 +1580,11 @@
     "samples": [
       {
         "name": "VECINOS",
-        "uri": "https://dcs3-live.mp.lura.live:443/server/podserve/Akpqp9fxaoNEhKJj/rendition.m3u8?track=video-4&ts=1697428478&psi=24c279c64b3283d3f35f4b9c0eb57a56&encp=3zYXPSCKUV7RY5kKr3iVgQ:ctljKgpoOvy70XFbSXiyQzijLyMDs9QZNbszISgkTQA1bwLHQmV3nFF85t_nsmo0pLwbZe7NsxPxDiyX7sGltCTZjbl_Aw1KUZfgwymvf9QGdprcH5EfbYLyK2qjWqwJ7g6HziCflekGNiD2lh6USIVXGi8UWZPPtwQMFIgJ4cITgoGW-9S2UVQqRv8qkMxCbBWe4OZhwtxBHYGXKPBdHk-8Kxdwbh3PxDEI2m7wtsQiMDEgpGRMNlL4fYZw3LxuIYCJNljX9yUIGRq-5UbqO9yVfBQS8H5WLqsGKm1QO5gg0LiLIkKQu8m67GeqKoLRGgOudN8Q21OuPidAhSvuQ14bwYN6uwE4Zdy2vAL9ZAi6lKoDpysIeJ9mJnKQEm8Ms4VMVDH35unFxBYidNlMPlY29U1yJZcCf3WcqMBOqZQe-6qlvps3dc0T5PFeHPTycoN3aUvVbKvI3-z-L3UMmEpHc3dqSyAWOjX7laZS5ajb13wu0BDq3MGM-03zOTomU4K_99W9SHqubYY9i6wOFV_DOTDMSsb6wxLl1C_G26oDWmv5o4iHBp_QCao1OJ2zLsouu_CQEdKrh7C2ElCvPBBLdmsNwQA02T6VwjSrDmAhR23PHkIT6EY1fvJSmur3g7d_WBhi2xphGepGbERcqAINyhtv_IFHOfDD4WRqnSGI5RLejlEImJelN23_CHTh5SfC59bqBudG9wYPgVO28gE2sKCnYErW-aRJx4MFoluAonxpBx67QLJjwSDRZYI-M7894Tba3dXpFy3LxksPdDAghtin5xZDNvEtaR8PUpiYDVC-jeOWVzrG_NrKQJy0NgycczBoSEPK3D6j2ZkQyFmPlgfsB70cpijuMjoHMkxC0qAuEXTiP40Ozcj3MMKfiB-EZDbSbbp04PlHc3nvGAV4bqz5Z8rw1bIaKqhBPB-Ur346I2PWurQz6Lx9Q7mzDpNItRs5TQoXKXuQIE02npFEpscp5y5HUir97SYb6PoYy24GcVz-_LTmAni8_FkI&pcqx=0b9072fdfce23a76d561194b75af8616&sid=16513732-438b-4585-bcf5-113f66f5018a:SCL"
+        "uri": "https://d1406h321fcaxw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/d88173f9-031c-4447-a4aa-716770d709af/0.m3u8"
+      },
+      {
+        "name": "DISTRITO COMEDIA",
+        "uri": "https://alexistv.x10.mx/vix-plus/HLS/adstJG1vdAJPa3yg.m3u8"
       },
       {
         "name": "CNN ESPAÑOL",
