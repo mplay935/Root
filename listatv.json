@@ -1471,6 +1471,14 @@
         "uri": "https://testphp07.alwaysdata.net/tele/play/108.m3u8"
       },
       {
+        "name": "VECINOS",
+        "uri": "http://sayayin.duckdns.org/vix-hls/adstxV26qgwxqG5Z.m3u8"
+      },
+      {
+        "name": "DISTRITO COMEDIA",
+        "uri": "https://alexistv.x10.mx/vix-plus/HLS/adstJG1vdAJPa3yg.m3u8"
+      },
+      {
         "name": "DIGIMON 24/77",
         "uri": "https://testphp07.alwaysdata.net/tele/play/129.m3u8"
         
@@ -1597,9 +1605,9 @@
     "samples": [
       {
         "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "xm6z/caihO0Hv1F76imT52REpBuX9NR1vqQdrip+71tqVGoHrUFjxQMZdE6pZc9OCUdqqWdFEsc0S1TqGmZddSBo/a+BR4+5bzozQCa50M1KBrOn5IJC/GB/D57alnOP/0AQhdcLrrUak4ep8Tx0caRh8WmQra1Kfk2WgUs/PEo=",
+        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A_wl/Canal_de_las_estrellas.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "rADY73HeCIG8mn+3toxsEjnfmY53coegHaGyYHzZtsb9bgXAdC1W9D5iuogiHQlMe5SBGcm8Oapjb79fIZIPV6XD7VGW4ZFxyVjVjss5Q/3Ri49usiGuu9YNjBAkwwXIglC+4z0XTekELgHNwZbbimtmxozzwAltGxzRfy+z5fs="
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166"
       },
       {
         "name": "PASIONES",
@@ -1612,6 +1620,12 @@
         "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A_wl/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https:/dl.dropbox.com/scl/fi/a3zgcah2eszo4sy6zbxca/KEY.TNT.NOVELAS.json?rlkey=dywkos2mo9yg7xq2xxf0auorh&dl=0"
+      },
+      {
+        "name": "TELEMUNDO",
+        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_wl/Telemundo_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e"
       },
       {
         "name": "SONY NOVELAS",
@@ -1696,14 +1710,7 @@
   {
     "name": "ENTRETENIMIENTOS 📺",
     "samples": [
-      {
-        "name": "VECINOS",
-        "uri": "http://sayayin.duckdns.org/vix-hls/adstxV26qgwxqG5Z.m3u8"
-      },
-      {
-        "name": "DISTRITO COMEDIA",
-        "uri": "https://alexistv.x10.mx/vix-plus/HLS/adstJG1vdAJPa3yg.m3u8"
-      },
+      
       {
         "name": "CNN ESPAÑOL",
         "uri": "https://edge-vod02-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_wl/CNN_en_Espanol.mpd",
@@ -1769,28 +1776,10 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d759477f0ad1bdef2c6de09e7c275fd&key=82cc6eea185eecc934df95adfbbf9dbc"
       },
       {
-        "name": "TELEMUNDO",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_wl/Telemundo_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e"
-      },
-      {
         "name": "GLITZ",
         "uri": "https://edge-live12-hr.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc_wl/Glitz.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f812ef81d6ce425a8db4012a1ef8b0c1&key=5c2b9791b1074727eb349588e32bdc0a"
-      },
-      {
-        "name": "LAS ESTRELLAS",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A_wl/Canal_de_las_estrellas.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166"
-      },
-      {
-        "name": "PASIONES",
-        "uri": "https://edge-live13-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_wl/Pasiones.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a"
       },
       {
         "name": "WOBI TV",
