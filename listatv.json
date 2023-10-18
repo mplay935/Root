@@ -1449,6 +1449,93 @@
     ]
   },
   {
+    "name": "CANALES 24/7",
+    "samples": [
+      {
+        "name": "DON GATO Y SU PANDILLA 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/71.m3u8"
+        
+      },
+      {
+        "name": "ALF 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/128.m3u8"
+        
+      },
+      {
+        "name": "MI BELLA GENIO 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/93.m3u8"
+        
+      },
+      {
+        "name": "LA FAMILIA PELUCHE 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/108.m3u8"
+      },
+      {
+        "name": "DIGIMON 24/77",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/129.m3u8"
+        
+      },
+      {
+        "name": "CHAVO 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/150.m3u8"
+       
+      },
+      {
+        "name": "EL CHAPULIN COLORADO 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/113.m3u8"
+      },
+      {
+        "name": "SOUTH PARK 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/146.m3u8"
+      },
+      {
+        "name": "FUTURAMA 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/166.m3u8"
+        
+      },
+      {
+        "name": "DRAGON BALL SUPER 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/191.m3u8"
+        
+      },
+      {
+        "name": "TERROR 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/196.m3u8",
+        
+      },
+      {
+        "name": "LOS SIMPSON 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/329.m3u8"
+        
+      },
+      {
+        "name": "BEN 10 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/354.m3u8",
+        
+      },
+      {
+        "name": "CHESPIRITO 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/355.m3u8"
+        
+      },
+      {
+        "name": "DINOSAURIOS 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/356.m3u8"
+       
+      },
+      {
+        "name": "COYOTE Y CORRE CAMINOS 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/357.m3u8"
+        
+      },
+      {
+        "name": "EL PRINCIPE DEL RAP 24/7",
+        "uri": "https://testphp07.alwaysdata.net/tele/play/358.m3u8"
+        
+      }
+    ]
+  },
+  {
     "name": "PROGRAMACION PLUTO TV 📺 ",
     "samples": [
       {
