@@ -1135,7 +1135,7 @@
         "name": "LA LIGA1 PERU HD",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1271/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=022d63431e1a5221997dc9ce74c91e4f&key=363d2c58216f24b932662a943230136a"
+        "drm_license_uri": "https://listasm3u.live/keys/liga1peru.json"
       },
       {
         "name": "COMBATV HD",
@@ -1611,7 +1611,7 @@
     "samples": [
       {
         "name": "VECINOS",
-        "uri": "https://d1406h321fcaxw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/d88173f9-031c-4447-a4aa-716770d709af/0.m3u8"
+        "uri": "http://sayayin.duckdns.org/vix-hls/adstxV26qgwxqG5Z.m3u8"
       },
       {
         "name": "DISTRITO COMEDIA",
