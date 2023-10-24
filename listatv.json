@@ -10,11 +10,11 @@
       },
       {
         "name": "TIGO PARAGUAY 2",
-        "uri": "http://148.251.86.230:8080/play/mpegts/eyJpdiI6ImYxYjJwN2p4YlFrNmNyMG9vcFZzU2c9PSIsInZhbHVlIjoiRFd1eEVhU1MyTVMvWjhXMkkwUzNJYUwxM3Y3bnc1WElyTVdvamt2NCtwZUY3U0E5R2o4N3JyeTF2eFZaVTBhdyIsIm1hYyI6IjA4Y2JmOGVjMWY2YjMzMTNjZjNkYzY3YTU4N2FlZWFhMjBhODM4ODcxMGU1NTA2MWVhZjg2ZmI0OWFjMWVhNTciLCJ0YWciOiIifQ==/386070d7-55b7-4295-8e21-1765c6ea504d.ts?lvtoken=eyJpdiI6ImR0UHNUWXlGZTZYc0Q5NGFaM0VWOUE9PSIsInZhbHVlIjoiZ25INEpkS2V2c2tsN0NQaE1NbHZNVXA1ZUc5cWxWaEdaL1I0SmR6SUtqbkc4ZC9rcGgzRHZDMm1yb0RtWTN6Y3FkWXpxcStsNTMrZlZIK0pzSm1kT0EwRnZRTW1FSWpjU09TcS83Q2xjRnJlUng4VkRJQ3dpNXRGZDB5bDRxSHJIY2Fyek93bXNTWWpXS3NPaUc1UVlFdWM2WEl5eUsrZXRzMndUMlN1dk9CV0R3TFlEMW1ocWdPVDZDZ1BXSHNPVWZRVG42TEVpeUtIUnFiakVwQmRaZz09IiwibWFjIjoiYzhhYzE1NTdkYWFlZDJhMmI1YWQ2M2I3NzhmNGJiN2YxYmZkYWQ0N2QxOGMwZWVhZTZlYjZmYzUyOWMxZmE5ZiIsInRhZyI6IiJ9&r=d3f4bf&rt=b3d9608ecf95610dcbf8d56559b3c6c6"
-      },
+        "uri": "https://testphp07.alwaysdata.net/vimeofutplay/tigo.m3u8"
+     },
       {
         "name": "TIGO PARAGUAY 3",
-        "uri": "https://ssh101.bozztv.com/ssh101/lovesbien/playlist.m3u8"
+        "uri": "https://qiniu.prdv3.dlivecdn.com/dlive-kuolaeipzk/1698188576/src/live.m3u8"
       },
       {
         "name": "TIGO PARAGUAY 4",
@@ -97,12 +97,6 @@
       {
         "name": "EVENTOS 2",
         "uri": "http://fontecdn.com:80/Conectplus20/QZG6SJPxs763/1569510"
-      },
-      {
-        "name": "EVENTOS 3",
-        "uri": "https://sayayin.duckdns.org/claro/claro.php?idcanal=QW5pbWFsIFBsYW5ldCBIRA==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d159d22935a366a6989d352f231edad9&key=36caf348e0f7a4d4a6cdc577368387c2"
       }
       
     ]
