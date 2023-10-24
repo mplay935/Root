@@ -1600,15 +1600,13 @@
       },
      {
         "name": "TELEVISA",
-        "uri": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "PASIONES",
-        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A_wl/Pasiones.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vqfoyrzv2rnl9prbdyjui/KEY.PASIONES.json?rlkey=0n1sb7udlnryk644hnubtzbuq&dl=0"
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://zhost.com.ar/tv/Keys/pasiones.json"
       },
       {
         "name": "TNT NOVELAS",
