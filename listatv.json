@@ -684,7 +684,7 @@
         "name": "HBO",
         "uri": "https://edge-live13-hr.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_wl/HBOHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/s/a4rqhqb3cf1t7az/KEY.H%20BO.HD.json"
+        "drm_license_uri": "https://panelssh.com.ar/Keys/hbonew.json"
       },
       {
         "name": "HBO 2",
