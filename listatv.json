@@ -97,6 +97,12 @@
       {
         "name": "EVENTOS 2",
         "uri": "http://fontecdn.com:80/Conectplus20/QZG6SJPxs763/1569510"
+      },
+      {
+        "name": "EVENTOS 3",
+        "uri": "https://sayayin.duckdns.org/claro/claro.php?idcanal=QW5pbWFsIFBsYW5ldCBIRA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d159d22935a366a6989d352f231edad9&key=36caf348e0f7a4d4a6cdc577368387c2"
       }
       
     ]
