@@ -1598,6 +1598,12 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166"
       },
+     {
+        "name": "TELEVISA",
+        "uri": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "PASIONES",
         "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A_wl/Pasiones.mpd",
