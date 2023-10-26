@@ -164,10 +164,6 @@
       {
         "name": "KURUNDU",
         "uri": "https://archive.org/download/Kurundu/Kurundu.mp4"
-      },
-      {
-        "name": "MITA'I",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/40ddf02b-c481-4fae-b1fd-523f03948d97/509c9fe6-6ca9-4d0d-9228-44dddb3a6d44-master.m3u8"
       }
     ]
     },
@@ -808,9 +804,15 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38"
       },
       {
-        "name": "ESPN 4 HD",
+        "name": "ESPN 4 FHD",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SP_ANDINA)/index.m3u8"
       
+      },
+      {
+        "name": "ESPN 4 HD",
+        "uri": "https://edge-live15-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a"
       },
       {
         "name": "ESPN EXTRA HD",
