@@ -678,9 +678,7 @@
       },
       {
         "name": "SYFY HD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri":"https://zhost.com.ar/tv/Keys/syfy.json"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SYFY_HD)/index.m3u8"
       },
       {
         "name": "SONY CHANNEL HD",
@@ -962,12 +960,6 @@
         "name": "LA LIGA1 MAX PERU HD",
         "uri": "https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max"
       },
-       {
-        "name": "LA LIGA1 PERU HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1271/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://listasm3u.live/keys/liga1peru.json"
-      },
       {
         "name": "COMBATV HD",
         "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090&avod=1&coppa=0&is_lat=0"
@@ -981,22 +973,6 @@
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A_wl/El_Garage.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03d1dfb8df034d8b81e57753df00a36d&key=08d83660db4a73bb1d61d60b09df5f4d"
-      },
-      {
-        "name": "MOVISTAR F1",
-        "uri" : "https://testphp07.alwaysdata.net/tele/play/199.m3u8"
-      },
-      {
-        "name": "AFICIONADOS",
-        "uri" : "https://testphp07.alwaysdata.net/tele/play/30.m3u8"
-      },
-      {  
-        "name": "TUDN USA",
-        "uri": "https://testphp07.alwaysdata.net/tele/play/200.m3u8"
-      },
-      {  
-        "name": "TUDN XTRA",
-        "uri": "https://testphp07.alwaysdata.net/tele/play/60.m3u8"
       },
       {
         "name": "GOLF CHANNEL HD",
