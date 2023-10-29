@@ -20,12 +20,7 @@
         "name": "TIGO PARAGUAY 4",
         "uri": "https://testphp07.alwaysdata.net/vimeofutplay/tigo.m3u8"
       },
-      {
-        "name": "TEST ",
-        "uri": "https://ctr-01277-claro-br.claro-tv-live.qwilted-cds.cqloud.com/Content/Channel/SPOPRHD/dsc1/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=809a0b637128904960703e38bf28b46f&key=bdac156a21ba40955854db2a391d7363"
-      },
+      
       {
         "name": "TIGO BOLIVIA",
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8"
