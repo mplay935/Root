@@ -3,7 +3,7 @@
   {
     "name": "TIGO EVENTOS ⚽️",
     "mode": false,
-    "lista":,
+    "lista":
      [
     
       {
@@ -35,7 +35,8 @@
     },
   {
     "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026 🏆",
-    "samples": [
+    "mode": false,
+    "lista": [
       {
         "name": "HEI PY",
         "uri": "https://testphp07.alwaysdata.net/hei/index.m3u8"
