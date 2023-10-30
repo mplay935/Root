@@ -2,9 +2,7 @@
   
   {
     "name": "TIGO EVENTOS ⚽️",
-    "mode": false,
-    "lista":
-     [
+    "samples": [
     
       {
         "name": "TIGO PARAGUAY 1",
@@ -35,8 +33,7 @@
     },
   {
     "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026 🏆",
-    "mode": false,
-    "lista": [
+    "samples": [
       {
         "name": "HEI PY",
         "uri": "https://testphp07.alwaysdata.net/hei/index.m3u8"
