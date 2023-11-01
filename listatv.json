@@ -1282,8 +1282,24 @@
         "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/2090877.m3u8"
       },
       {
+        "name": "SPIDERMAN",
+        "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/2090970.m3u8"
+      },
+      {
+        "name": "SUPER CAMPEONES",
+        "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/2090960.m3u8"
+      },
+      {
         "name": "RUGRATS",
         "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
+      },
+      {
+        "name": "ROBOTECH",
+        "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/2090959.m3u8"
+      },
+      {
+        "name": "PINKY Y CEREBRO",
+        "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/2090901.m3u8"
       },
       {
         "name": "PEPA PING",
