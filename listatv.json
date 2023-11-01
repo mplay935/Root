@@ -1278,7 +1278,11 @@
         "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w"
       },
       {
-        "name": "TEST",
+        "name": "SCOOVY DOO",
+        "uri": "http://lobo-tv.live:8080/sddt-aaronmenachomar23/AhP7S5GT286d/2090914"
+      },
+      {
+        "name": "POCOYO",
         "uri": "http://lobo-tv.live:8080/sddt-aaronmenachomar23/AhP7S5GT286d/2090913"
       }
     ]
