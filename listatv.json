@@ -10,7 +10,7 @@
       },
       {
         "name": "TIGO PARAGUAY 2",
-        "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/76NmL6BF-zC0yioJCZCexLxh3vX-M8KGl6MgNmh3KUDXC2Vwz5Rkuo0F-jWgIbIHYIpX-D9N6oXlfDUVPHD6Ag/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8"
+        "uri": "https://qiniu.prdv3.dlivecdn.com/dlive-jlgpkevkcb/1699042865/src/live.m3u8"
      },
       {
         "name": "TIGO PARAGUAY 3",
