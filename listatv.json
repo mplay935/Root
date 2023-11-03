@@ -1475,6 +1475,12 @@
         "uri": "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8"
       },
       {
+        "name": "NICK MUSIC TV",
+        "uri": "https://edge-live17-sl.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c7&key=4a4fd86ea9db4417ec86c237d3111b187"
+      },
+      {
         "name": "CM",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
         "drm_scheme": "clearkey",
