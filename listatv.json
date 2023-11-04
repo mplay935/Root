@@ -762,7 +762,7 @@
        "drm_license_url": "https://zhost.com.ar/tv/Keys/europaeuropa.json"
      },
       {
-       "name": "test",
+       "name": "TEST",
        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/2142297/playlist.m3u8"
       
      },
