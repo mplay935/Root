@@ -762,6 +762,12 @@
        "drm_license_url": "https://zhost.com.ar/tv/Keys/europaeuropa.json"
      },
       {
+       "name": "test",
+       "uri": "https://dcs3-live.mp.lura.live/server/podserve2/Akpqp9fxaoNEhKJj/manifest.mpd",
+       "drm_scheme": "ClearKey",
+       "drm_license_url": "http://api.argentinatv.live/kbx1/vecino.json"
+     },
+      {
         "name": "GOLDEN HD",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8"
       },
