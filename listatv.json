@@ -1256,6 +1256,10 @@
         "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/189870.m3u8"
       },
       {
+        "name": "FAMILIA PELUCHE",
+        "uri": "https://linear-312.frequency.stream/dist/vix/312/hls/master/playlist.m3u8"
+      },
+      {
         "name": "LOS PITUFOS",
         "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat=1"
       },
