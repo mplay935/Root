@@ -1249,7 +1249,7 @@
     "samples": [
       {
         "name": "DISTRITO COMEDIA",
-        "uri": "http://lobo-tv.live:8080/live/sddt-aaronmenachomar23/AhP7S5GT286d/2092591.m3u8"
+        "uri": "https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISTRITOCOMEDIA)/index.m3u8"
       },
       {
         "name": "VECINOS",
