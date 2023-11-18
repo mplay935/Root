@@ -545,7 +545,7 @@
       },
       {
         "name": "HBO XTREME",
-        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_wl/HBO_Extreme.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_wl/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58"
       },
