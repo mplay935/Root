@@ -68,12 +68,6 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662"
       },
       {
-        "name": "DIRECTV",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731"
-      },
-      {
         "name": "AMERICA TV",
         "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
         "drm_scheme": "clearkey",
@@ -1560,7 +1554,7 @@
       },
       {
         "name": "TRU TV",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd",
         "drm_scheme": "ClearKey",
         "drm_license_url": "https://panelssh.com.ar/Keys/trutv.json"
       },
